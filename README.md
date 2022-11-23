@@ -12,5 +12,4 @@ However, the transmittance spectrum is a graph made up of finite points, so to f
 
 ![peak_wavenumber_illustration](images/peak_wavenumber_illustration.png)
 
-The code automatically identifies peaks and applies the centroid method to measure how well-calibrated the spectroscope is.
-
+The code automatically identifies peaks based on an estimate of their position, and applies the centroid method to measure how well-calibrated the spectroscope is.
